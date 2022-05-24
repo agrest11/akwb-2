@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1579680413 source:c:\users\hp\desktop\klika\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<sstream>
+	<vector>
+	<string>
+
+1579680413 source:d:\moje\moje pliki\studia\3 sem\algorytmy kombinatoryczne w bioinformatyce lab\projekt 3\klika\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<sstream>
+	<vector>
+	<string>
+
